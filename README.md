@@ -1,4 +1,4 @@
-# <img src="endgame.png" width="80"/> Avengers: Endgame & <img src="logo-tar.png" width="64"/> GoT Spoilers Hider - Chrome Extension 
+## <img src="endgame.png" width="110"/> Avengers: Endgame & <img src="logo-tar.png" width="64"/> GoT Spoilers Hider - Chrome Extension 
 Hides all the GOT Spoilers
 
 # How To Use?
