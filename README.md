@@ -15,7 +15,7 @@ This was my first Google Chrome Extension.
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
 - An icon <img src="avenger.png"  width="40"/> should appear besides your Chrome Search bar.
-- That's all :D. You're GOT will not be spoiled now.
+- That's all :D. Your Endgame or GOT will not be spoiled now.
 
 ### Some Sample Shots:
 ![alt-text](https://github.com/gkalyan04/EndGame_GoT_Spoilers_ChromeExtension/blob/master/sample-1.png)  
