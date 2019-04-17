@@ -19,5 +19,5 @@ This was my first Google Chrome Extension.
 
 ### Some Sample Shots:
 ![alt-text-1](https://github.com/gkalyan04/EndGame_GoT_Spoilers_ChromeExtension/blob/master/sample-1.png)  
-
+-------------------------------------------------------------------------
 ![alt-text-2](https://github.com/gkalyan04/EndGame_GoT_Spoilers_ChromeExtension/blob/master/sample-2.png)
