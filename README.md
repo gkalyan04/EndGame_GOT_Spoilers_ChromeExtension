@@ -18,6 +18,7 @@ This was my first Google Chrome Extension.
 - That's all :D. You're GOT will not be spoiled now.
 
 ### Some Sample Shots:
-![alt-text-1](https://github.com/gkalyan04/EndGame_GoT_Spoilers_ChromeExtension/blob/master/sample-1.png)  
--------------------------------------------------------------------------
-![alt-text-2](https://github.com/gkalyan04/EndGame_GoT_Spoilers_ChromeExtension/blob/master/sample-2.png)
+![alt-text](https://github.com/gkalyan04/EndGame_GoT_Spoilers_ChromeExtension/blob/master/sample-1.png)  
+
+
+![alt-text](https://github.com/gkalyan04/EndGame_GoT_Spoilers_ChromeExtension/blob/master/sample-2.png)
