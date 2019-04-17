@@ -1,4 +1,4 @@
-# Game Of Thrones Spoiler Chrome Extension
+# <img src="Marvel-Studios.png" alt="🐺" width="45"/> Avengers: Endgame & <img src="logo-tar.png" alt="🐺" width="64"/> GoT Spoilers Hider - Chrome Extension 
 Hides all the GOT Spoilers
 
 # How To Use?
