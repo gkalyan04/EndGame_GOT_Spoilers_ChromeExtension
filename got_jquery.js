@@ -1,5 +1,5 @@
 spoiler_words = ['GOT', 'game of thrones', 'got spoiler', 'GoT', 'GOT Spoiler', 'Game of Thrones', 'GAME OF THRONES', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED'];
-tags = "SPANEMBIULOLI";
+tags = "GOT";
 count = 0;
 
 for(var i = 0 ; i<spoiler_words.length; ++i){
