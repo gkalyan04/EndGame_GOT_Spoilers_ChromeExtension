@@ -1,4 +1,4 @@
-# <img src="Marvel-Studios.png" alt="🐺" width="45"/> Avengers: Endgame & <img src="logo-tar.png" alt="🐺" width="64"/> GoT Spoilers Hider - Chrome Extension 
+# <img src="endgame.png" width="45"/> Avengers: Endgame & <img src="logo-tar.png" width="64"/> GoT Spoilers Hider - Chrome Extension 
 Hides all the GOT Spoilers
 
 # How To Use?
@@ -8,5 +8,5 @@ Hides all the GOT Spoilers
 - Go to `chrome://extensions`
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
-- An icon <img src="off.png" alt="🐺" width="40"/> should appear besides your Chrome Search bar.
+- An icon <img src="off.png"  width="40"/> should appear besides your Chrome Search bar.
 - That's all :D. You're GOT will not be spoiled now.
